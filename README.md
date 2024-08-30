@@ -1,7 +1,7 @@
-# patika-dev-pages-kodluyoruz-patika
-Patika.dev HTML Bölüm Sonu Çalışması
+# remote-courses
+Patika Beginner Frontend Web Development Path Certification Task
+<br>Remote Courses
 
-https://www.patika.dev
-https://kodluyoruz.org/tr/kodluyoruz
+Browse: <https://cemcelikgh.github.io/remote-courses/>
 
-![Patika Ana Sayfa](https://images2.imgbox.com/ec/4f/aJP3QcWQ_o.jpg)
+[![Remote Courses Preview](./remote-courses-preview.jpg "Browse Remote Courses")](https://cemcelikgh.github.io/remote-courses/)
